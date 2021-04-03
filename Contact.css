@@ -1,0 +1,44 @@
+body{
+        background-image:url("MDABAB.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+}
+.container{
+        max-width: 380px;
+        background-color:transparent;
+        text-align: center;
+        border-radius: 110px;
+        padding: 0px;
+        color: #fab1a0;
+        box-sizing: border-box;
+        margin-left: 400px;
+}
+input{
+        width: 130%;
+        margin: 10px 0;
+        outline: none;
+        background-color: transparent;
+        padding: 20px 40px;
+        font-size: 20px;
+        font-weight: bold;
+        box-sizing: border-box;
+        line-height: 150%;
+        border: none;
+        border-bottom: 1px #fff solid;
+        text-align: center;
+}
+button{
+        width: 80%;
+        border-radius: 12px;
+        padding: 10px;
+        background-color: #fab1a0;
+        color: #000;
+        font-size: 20px;
+        font-weight: bold;
+        outline: none;
+text-align: center;
+ cursor: pointer;
+ margin-left: 100px;
+}
